@@ -1,5 +1,5 @@
-
 # Numerical Simulation and Chaos Analysis of the Lorenz System
+
 
 ## Overview
 
