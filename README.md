@@ -39,7 +39,6 @@ The classical parameter values used in this project are:
 ```text
 Lorenz_System_Simulation/
 │
-│Readme.txt
 │   ├── 01_lorenzSystemSimulation.py
 │   ├── 02_equilibrium_analysis.py
 │   ├── 03_equilibrium_visualization.py
@@ -131,7 +130,7 @@ The bifurcation diagram is a numerical visualization based on local maxima and i
 ## Authors
 
 - Akriti kumari
-- Rupam Kumari
+  
 
 Undergraduate Engineering Project
 
